@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heraldomi.github.io/sitemap.html.gz
+Sitemap: https://heraldomi.github.io/app/sitemap.html.gz
+Sitemap: https://heraldomi.github.io/assets/sitemap.html.gz
+Sitemap: https://heraldomi.github.io/css/sitemap.html.gz
+Sitemap: https://heraldomi.github.io/includes/sitemap.html.gz
+Sitemap: https://heraldomi.github.io/item/sitemap.html.gz
+Sitemap: https://heraldomi.github.io/src/sitemap.html.gz
